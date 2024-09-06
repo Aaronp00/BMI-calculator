@@ -1,0 +1,8 @@
+**********NEW PATIENT***********
+The Paitents name:josh
+The Patients phone number:073884483
+The patients email address:.
+The patients weight:78Kg
+The patients height:1.44M
+The patient is  Obese on the bmi scale , as there bmi is 37.6
+--------------------------------------------------------
